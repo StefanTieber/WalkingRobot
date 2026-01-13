@@ -24,33 +24,49 @@ I bought them from the official website.
 Solder the cables of the motor and the battery box and seal them using heat shrink or tape.
 
 ![alt text](./Photos/2.jpg)
+Insert the pegs. Because the motor is asymmetric, you have to do it exactly as on the picture.
 
 ![alt text](./Photos/3.jpg)
+Flip the parts and add the round spacers.
 
 ![alt text](./Photos/4.jpg)
+Add the parts to the motor. The cable must be in the back, otherwise your robot will walk backwards.
 
 ![alt text](./Photos/5.jpg)
+Add the small part at the bottom.
 
 ![alt text](./Photos/6.jpg)
+Add the shoulders.
 
 ![alt text](./Photos/7.jpg)
+Draw your face.
 
 ![alt text](./Photos/8.jpg)
+Add the front to the robot.
 
 ![alt text](./Photos/9.jpg)
+Put batteries in the box and put the battery box in the robot.
 
 ![alt text](./Photos/10.jpg)
+Make sure the switch is accessible.
 
 ![alt text](./Photos/11.jpg)
+Assemble the crank shafts.
 
 ![alt text](./Photos/12.jpg)
+Add them to the robot. Make sure they are offset by 180°.
 
 ![alt text](./Photos/13.jpg)
+Assemble the legs. This might be a bit harder than the rest, as they carry the weight and must not come apart.
 
 ![alt text](./Photos/14.jpg)
+Add the gray pegs to the legs.
 
 ![alt text](./Photos/15.jpg)
+Add the legs to the robot like this.
 
 ![alt text](./Photos/16.jpg)
+Sometimes it helps to turn the crank shaft down first and then add the leg.
 
 ![alt text](./Photos/17.jpg)
+That's it! I hope it works for you :)
