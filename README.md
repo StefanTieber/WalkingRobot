@@ -1,6 +1,6 @@
 # Walking Robot
 
-This repo is for everyone who saw this reel and asked me if they could have the design files too.
+This repo is for everyone who saw this [reel](https://www.instagram.com/reel/DRvOFXEjLOG/) and asked me if they could have the design files too.
 
 ## Laser
 You can download [roboter8.svg](./roboter8.svg) and use a CO₂ laser to cut 4mm plywood, which in my experience in reality is more like 3.6mm.
