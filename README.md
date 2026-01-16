@@ -4,6 +4,11 @@
 
 This repo is for everyone who saw this [reel](https://www.instagram.com/reel/DRvOFXEjLOG/) and asked me if they could have the design files too.
 
+## Legal
+If you decide to make this robot yourself, leave my name on it, even if you modify it.
+Under this condition, I allow anyone to use my design for any purpose, noncommercial and commercial.
+The design remains my intellectual property nevertheless.
+
 ## Laser
 You can download [roboter8.svg](./roboter8.svg) and use a CO₂ laser to cut 4mm plywood, which in my experience in reality is more like 3.6mm.
 Depending on your wood and your laser, you might need to change the SVG slightly. I recommend Inkscape for this purpose.
