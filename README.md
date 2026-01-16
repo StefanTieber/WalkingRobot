@@ -1,5 +1,7 @@
 # Walking Robot
 
+![alt text](./Photos/0.jpg)
+
 This repo is for everyone who saw this [reel](https://www.instagram.com/reel/DRvOFXEjLOG/) and asked me if they could have the design files too.
 
 ## Laser
